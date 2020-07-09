@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**smarlhens/smarlhens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Samuel, I'm a fullstack developer for [@esensconsulting](https://github.com/esensconsulting).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with: [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/)
+- ❤️ I love working with: [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [PHP](https://www.php.net/), [Symfony](https://symfony.com/)
+- 👨🏻‍🎓 I'm currently learning: [Nest.JS](https://nestjs.com/), [Svelte.JS](https://svelte.dev/)
+- 👀 In the near future I want to work with: [Flutter](https://flutter.dev/), [React](https://reactjs.org/), [Supabase](https://supabase.io/), [Vue](https://vuejs.org/)
+- 👨‍💻 I already work with: Xamarin, Cordova, Ionic, Jenkins, SonarQube, Docker, Vagrant, Ansible (scripting only), Java, Android, Realm, Sass, Bootstrap, Materialize, MariaDB, MySQL, SQLite, Doctrine, Electron, Webpack, Gulp, Azure DevOps
+- 😕 I'm confused with: [Sails.js](https://sailsjs.com/)
+- ⛔ I don't want to work with: [Silex](https://silex.symfony.com/), [WordPress](https://wordpress.com/), [PrestaShop](https://www.prestashop.com/)
+- 📫 How to reach me: 
+  - 📧: [samuel.marlhens@gmail.com](mailto:samuel.marlhens@gmail.com)
+  - 🔗: [LinkedIn](https://www.linkedin.com/in/samuelmarlhens)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Wish you a good day 🙋‍♂️ !
