@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=smarlhens&color=brightgreen&style=flat)
 
 My name is Samuel, I'm a fullstack developer for [@esensconsulting](https://github.com/esensconsulting).
 
