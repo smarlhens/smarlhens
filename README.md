@@ -3,6 +3,8 @@
 
 My name is Samuel, I'm a fullstack developer for [@esensconsulting](https://github.com/esensconsulting).
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smarlhens&count_private=true&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working with: [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/)
 - ❤️ I love working with: [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [PHP](https://www.php.net/), [Symfony](https://symfony.com/)
 - 👨🏻‍🎓 I'm currently learning: [Nest.JS](https://nestjs.com/), [Svelte.JS](https://svelte.dev/), [TailwindCSS](https://tailwindcss.com/)
@@ -13,5 +15,8 @@ My name is Samuel, I'm a fullstack developer for [@esensconsulting](https://gith
 - 📫 How to reach me: 
   - 📧: [samuel.marlhens@gmail.com](mailto:samuel.marlhens@gmail.com)
   - 🔗: [LinkedIn](https://www.linkedin.com/in/samuelmarlhens)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smarlhens&layout=compact&langs_count=8&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Wish you a good day 🙋‍♂️ !
