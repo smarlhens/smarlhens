@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=smarlhens&color=brightgreen&style=flat)
 
 My name is Samuel, I'm a fullstack developer for [@esensconsulting](https://github.com/esensconsulting).
 
@@ -18,5 +17,6 @@ My name is Samuel, I'm a fullstack developer for [@esensconsulting](https://gith
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smarlhens&layout=compact&langs_count=8&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=smarlhens&no-frame=true&column=6&margin-w=15&margin-h=15&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Wish you a good day 🙋‍♂️ !
