@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Samuel, I'm a fullstack developer for [@esensconsulting](https://github.com/esensconsulting).
+My name is Samuel, I'm a frontend developer for [@upciti](https://github.com/upciti).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smarlhens&count_private=true&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
