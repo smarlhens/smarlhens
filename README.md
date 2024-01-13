@@ -26,6 +26,8 @@ My name is Samuel, I'm a frontend developer for [@upciti](https://github.com/upc
 [![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Storybook](https://img.shields.io/badge/storybook-%23ff4785.svg?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
+[![Testing-Library](https://img.shields.io/badge/Testing%20Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)](https://testing-library.com/)
     </dd>
     <dt>❤️ I love to work with</dt>
     <dd>
@@ -35,8 +37,7 @@ My name is Samuel, I'm a frontend developer for [@upciti](https://github.com/upc
     <dt>👨🏻‍🎓 I'm currently learning</dt>
     <dd>
 
-[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
     </dd>
     <dt>👀 In the near future I want to explore/work with</dt>
     <dd>
@@ -45,14 +46,13 @@ My name is Samuel, I'm a frontend developer for [@upciti](https://github.com/upc
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-[![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)](https://testing-library.com/)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) 
 [![WebAssembly](https://img.shields.io/badge/webassembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
 [![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)](https://deno.land/)
     </dd>
     <dt>👨‍💻 I already worked with (*my knowledge may not be up to date*)</dt>
     <dd>
-
+[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
 [![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)](#)
@@ -77,14 +77,13 @@ My name is Samuel, I'm a frontend developer for [@upciti](https://github.com/upc
     <dt>😕 I'm confused with</dt>
     <dd>
 
-[Sails.js](https://sailsjs.com/)
+[![Sails.js](https://img.shields.io/badge/sails-%23001c20.svg?style=for-the-badge&logo=sails.js&logoColor=%2314acc2)](https://sailsjs.com/)
     </dd>
     <dt>⛔ I don't want to work with</dt>
     <dd>
 
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.com/)
 [![PrestaShop](https://img.shields.io/badge/prestashop-%23DF0067.svg?style=for-the-badge&logo=prestashop&logoColor=white)](https://www.prestashop.com/)
-[Silex](https://silex.symfony.com/)
     </dd>
 </dl>
 
